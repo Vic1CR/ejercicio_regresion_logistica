@@ -1,4 +1,4 @@
-duration,pdays,emp.var.rate,euribor3m,nr.employed,charges
+duration,pdays,emp.var.rate,euribor3m,nr.employed,y_n
 1460.0,999.0,-2.9,1.266,5076.2,1
 248.0,999.0,-1.8,1.299,5099.1,0
 275.0,999.0,-1.1,0.959,4963.6,1
